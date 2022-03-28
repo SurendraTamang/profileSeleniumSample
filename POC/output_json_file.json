@@ -1,0 +1,14 @@
+{
+   "name": false,
+   "email": true,
+   "firstName": true,
+   "lastName": true,
+   "emailConfirmation": true,
+   "linkedIn": false,
+   "facebook": false,
+   "twitter": false,
+   "website": false,
+   "location": false,
+   "telephone": true,
+   "message": false
+}
